@@ -1,16 +1,47 @@
 # mobx_tutorial
 
-A new Flutter project.
+# 📱 Projeto Acadêmico Flutter com MobX
 
-## Getting Started
+Este é um projeto acadêmico simples desenvolvido em **Flutter**, com o objetivo de aplicar **pela primeira vez o gerenciamento de estado utilizando MobX**.  
+O foco principal do projeto é o aprendizado dos conceitos fundamentais do MobX e sua integração com aplicações Flutter.
 
-This project is a starting point for a Flutter application.
+## 🚀 Objetivo do Projeto
 
-A few resources to get you started if this is your first Flutter project:
+- Compreender o conceito de **estado reativo**
+- Aprender a utilizar:
+  - `@observable`
+  - `@action`
+- Separar responsabilidades entre **UI** e **lógica de estado**
+- Criar uma base sólida para projetos Flutter mais escaláveis
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**
+- **Dart**
+- **MobX**
+- **flutter_mobx**
+- **build_runner**
+
+## 📂 Estrutura do Projeto
+
+<img width="403" height="744" alt="studio64_2012BKEnuf" src="https://github.com/user-attachments/assets/fabea148-44a4-41a1-aa2a-422d735bc871" />
+
+## ⚙️ Gerenciamento de Estado com MobX
+
+O MobX foi utilizado para controlar o estado da aplicação de forma reativa, permitindo que a interface seja atualizada automaticamente sempre que os dados mudam.
+
+Exemplo de conceitos aplicados:
+- Estados observáveis
+- Ações para modificar o estado
+- Observers para reagir às mudanças
+
+## 🎓 Contexto Acadêmico
+
+Este projeto faz parte de um estudo acadêmico e tem como finalidade **explorar novas abordagens de gerenciamento de estado**, servindo como base para projetos mais complexos no futuro.
+
+## 📌 Aprendizados
+
+- Primeira experiência prática com MobX
+- Melhor organização de código
+- Maior entendimento sobre reatividade no Flutter
+- Comparação entre MobX e outras soluções de estado
